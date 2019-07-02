@@ -1,8 +1,3 @@
-# simple_auth_flutter_example
+# flutter_instagram_auth
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+DON'T FORGET TO REPLACE "CLIENT_SECRET" in main.dart
